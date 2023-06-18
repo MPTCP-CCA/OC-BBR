@@ -6,6 +6,6 @@ authors:
   - name: "Boufeldja Manel"
     affiliation: "Computer science engineer"
 title: "OC-BBR"
-repository: "https://github.com/MPTCP-CCA/OC-BBR/"
+url: "https://github.com/MPTCP-CCA/OC-BBR/"
 version: 1.0
 date-released: 2023-06-18
