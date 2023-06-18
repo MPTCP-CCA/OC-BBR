@@ -1,0 +1,11 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:  
+  - name: "SAFARI Maouadda"
+    affiliation: "Computer science engineer"
+  - name: "Boufeldja Manel"
+    affiliation: "Computer science engineer"
+title: "OC-BBR"
+repository: "https://github.com/MPTCP-CCA/OC-BBR/"
+version: 1.0
+date-released: 2023-06-18
